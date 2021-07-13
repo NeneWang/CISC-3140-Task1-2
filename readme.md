@@ -46,6 +46,21 @@ Commit your changes
 `git push origin main`
 [1.2h]
 
+### Adding more files to track
+In the screenshot below you can see that new image files had been added (1.2g.png, 1.2h.png, 1.2i.png)
+
+You can add them all individually using: 
+`git add [filename]`
+Or just all of them by:
+`git add --all`
+
+
+Then commit your files and push to origin
+```bash
+   git commit -m "gitTutorial | more images files added" -a
+    git push origin main
+```
+
 
 
 
