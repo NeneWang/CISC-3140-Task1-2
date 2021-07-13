@@ -1,6 +1,6 @@
-#Task 1.2. Decentralized VCS practice with Git
+# Task 1.2. Decentralized VCS practice with Git
 
-###Using Terminal
+### Using Terminal
 1: Install Git (if you dont have it): https://git-scm.com/downloads
 
 2: Create a repository on github.com
