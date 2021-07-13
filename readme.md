@@ -37,6 +37,19 @@ now commit your files addition using `git commit -m "[your message]"`
 5.6 push to the origin
 `git push -u origin main`
 
+### Make your changes and update your repo
+Make your changes
+[1.2g]
+
+Commit your changes
+`git commit -m "gitTutorial | descriptions changed" -a`
+`git push origin main`
+[1.2h]
+
+
+
+
+
 
 
 
